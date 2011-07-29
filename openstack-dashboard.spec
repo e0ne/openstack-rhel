@@ -29,7 +29,7 @@ Url:            http://www.openstack.org
 Summary:        Django based reference implementation of a web based management interface for OpenStack.
 License:        Apache 2.0
 Group:          Development/Languages/Python
-Source0:          http://openstack-dashboard.openstack.org/tarballs/%{name}-%{version}.tar.gz  
+Source0:        http://openstack-dashboard.openstack.org/tarballs/%{name}-%{version}.tar.gz
 Source1:        %{name}.init
 Source2:        %{name}-%{version}-setup.py
 Source3:        %{name}-%{version}-dashboard
